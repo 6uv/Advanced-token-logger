@@ -1,0 +1,7 @@
+pycryptodome
+pypiwin32
+sys
+random
+requests
+discord_webhook
+getpass
